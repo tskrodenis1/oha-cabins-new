@@ -21,7 +21,7 @@ export default function About() {
             </div>
           </div>
           <Image
-            src="/assets/images/demo-elegant/section-image-1.jpg"
+            src="/assets/images/custom-ourcabins/homemain-400x489.jpg"
             width={400}
             height={489}
             className="w-100 round"
@@ -35,7 +35,7 @@ export default function About() {
           data-rellax-percentage="0.5"
         >
           <Image
-            src="/assets/images/demo-elegant/section-image-2.jpg"
+            src="/assets/images/custom-ourcabins/homemain2-400x489.jpg"
             width={400}
             height={489}
             className="w-100 round"

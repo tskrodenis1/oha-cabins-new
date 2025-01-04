@@ -30,7 +30,7 @@ export default function Home5MainDemoMultiPage() {
               className="home-section bg-dark-alpha-30 parallax-5 light-content z-index-1 scrollSpysection"
               style={{
                 backgroundImage:
-                  "url(/assets/images/demo-elegant/section-bg-1.jpg)",
+                  "url(/assets/images/custom-ourcabins/homemain1-1920x1080.png)",
               }}
               id="home"
             >
